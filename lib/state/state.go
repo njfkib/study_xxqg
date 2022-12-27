@@ -3,7 +3,7 @@ package state
 import (
 	"sync"
 
-	"github.com/sjkhsl/study_xxqg/lib"
+	"github.com/LingFeng0918/study_xxqg/lib"
 )
 
 var (

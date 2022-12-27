@@ -5,7 +5,7 @@ package stop
 import (
 	"fmt"
 	"github.com/getlantern/systray"
-	"github.com/sjkhsl/study_xxqg/cli"
+	"github.com/LingFeng0918/study_xxqg/cli"
 	"os"
 	"syscall"
 )

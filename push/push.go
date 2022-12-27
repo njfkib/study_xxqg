@@ -5,7 +5,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/sjkhsl/study_xxqg/conf"
+	"github.com/LingFeng0918/study_xxqg/conf"
 )
 
 func GetPush(config conf.Config) func(id string, kind string, message string) {

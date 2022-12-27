@@ -1,4 +1,4 @@
-module github.com/sjkhsl/study_xxqg
+module github.com/LingFeng0918/study_xxqg
 
 go 1.18
 

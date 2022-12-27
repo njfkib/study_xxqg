@@ -6,8 +6,8 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/sjkhsl/study_xxqg/conf"
-	"github.com/sjkhsl/study_xxqg/model"
+	"github.com/LingFeng0918/study_xxqg/conf"
+	"github.com/LingFeng0918/study_xxqg/model"
 )
 
 func Study(core2 *Core, u *model.User) {

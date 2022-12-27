@@ -4,7 +4,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"gopkg.in/yaml.v3"
 
-	"github.com/sjkhsl/study_xxqg/conf"
+	"github.com/LingFeng0918/study_xxqg/conf"
 )
 
 func configFileGet() gin.HandlerFunc {

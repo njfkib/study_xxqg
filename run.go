@@ -6,9 +6,9 @@ import (
 	"github.com/panjf2000/ants/v2"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/sjkhsl/study_xxqg/lib"
-	"github.com/sjkhsl/study_xxqg/lib/state"
-	"github.com/sjkhsl/study_xxqg/model"
+	"github.com/LingFeng0918/study_xxqg/lib"
+	"github.com/LingFeng0918/study_xxqg/lib/state"
+	"github.com/LingFeng0918/study_xxqg/model"
 )
 
 type Task struct {

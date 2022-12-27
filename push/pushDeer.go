@@ -7,8 +7,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/sjkhsl/study_xxqg/conf"
-	"github.com/sjkhsl/study_xxqg/utils"
+	"github.com/LingFeng0918/study_xxqg/conf"
+	"github.com/LingFeng0918/study_xxqg/utils"
 )
 
 func InitPushDeer() func(id, kind, message string) {
